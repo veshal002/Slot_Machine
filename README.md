@@ -1,7 +1,0 @@
-- 👋 Hi, I’m @veshalk
-- 👀 I’m interested in : CodE
-- 🌱 I’m currently learning : TEcH
-- 💞️ I’m looking to collaborate on : Not noW
-- 📫 How to reach me : You Can't
-- 😄 Pronouns: ME/ HIM
-- ⚡ Fun fact: I ADAPT
