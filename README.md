@@ -1,15 +1,12 @@
 My first program I am using to learn Python and Git.
 
-----------------------------
-
-Memory updated
-Here’s a README template for your slot machine code, tailored to explain the code's functionality and purpose in a clear, beginner-friendly way:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Slot Machine Game 🎰 :
 
 This project is a simple Slot Machine Game coded in Python, designed to simulate a slot machine experience. The game allows users to deposit a balance, place bets on multiple lines, and spin to win based on randomly generated symbols.
 
-Features
+Features -
 Deposit Balance: Start by depositing a balance to play.
 Customizable Betting Lines and Amount: Choose the number of lines to bet on (up to 3) and set the amount per line.
 Randomized Slot Symbols: Each spin generates a new set of symbols based on predefined symbol odds.
