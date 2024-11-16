@@ -1,11 +1,5 @@
 My first program I am using to learn Python and Git.
-
-<<<<<<< HEAD
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-=======
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
->>>>>>> dd54a35affb017439d6f70ceed19d258b94ec6ae
-
+===============================================================================================================================================================
 # Slot Machine Game 🎰 :
 
 This project is a simple Slot Machine Game coded in Python, designed to simulate a slot machine experience. The game allows users to deposit a balance, place bets on multiple lines, and spin to win based on randomly generated symbols.
